@@ -6,6 +6,8 @@ import java.util.StringTokenizer;
 public class Main {
  
 	public static void main(String[] args) throws IOException {
+		//내가 한거랑 똑같은데 왜 안되는지 모르겠음.. ?  왜 왜 왜 왜왜왜 왜왜왜오애
+		
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
  
 		StringTokenizer st = new StringTokenizer(br.readLine(), " ");
